@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yb-G
 - 👀 I’m interested in Technlogy
-- 🌱 I’m currently learning Python Coding in my school
-- 💞️ I’m looking to collaborate on Making Discord Bots, HTML Websites or Python!
+- 🌱 I’m currently looking to learn new forms for website development and application development
+- 💞️ I’m looking to collaborate on projects that will help me learn!
 - School Org: https://github.com/orgs/yb-g-school/repositories
 
 <!---
