@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yb-G
+- 👋 Hi, I’m Vaibhav Gannavarapu
 - 👀 I’m interested in Technlogy
 - 🌱 I’m currently looking to learn new forms for website development and application development
 - 💞️ I’m looking to collaborate on projects that will help me learn!
