@@ -1,20 +1,10 @@
-````md
-<!-- Replace the line below with your banner once it's ready -->
-<!-- ![Banner](https://raw.githubusercontent.com/yb-g/yb-g/main/assets/banner.png) -->
+# Hi, I'm Vaibhav 👋
 
-<h1 align="center">Hi, I'm Vaibhav 👋</h1>
+**Computer Science Student • Linux Enthusiast • Open Source**
 
-<p align="center">
-  <b>Computer Science Student</b> • <b>Linux Enthusiast</b> • <b>Open Source</b>
-</p>
+*Building useful software, one commit at a time.*
 
-<p align="center">
-  <i>Building useful software, one commit at a time.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yb-g&style=flat-square&color=grey&label=Profile+Views"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=yb-g&style=flat-square&color=grey&label=Profile+Views)
 
 ---
 
@@ -34,21 +24,19 @@
 
 ## 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript,json,lua" />
-</p>
+![Languages](https://skillicons.dev/icons?i=html,css,python,javascript,typescript,json,lua)
 
-> **Currently proficient:** HTML • CSS • Python  
-> **Currently learning:** JavaScript  
-> **Interested in learning:** TypeScript • JSON • Lua
+**Currently proficient:** HTML • CSS • Python
+
+**Currently learning:** JavaScript
+
+**Interested in learning:** TypeScript • JSON • Lua
 
 ---
 
 ## 🛠️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
-</p>
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,bash)
 
 ---
 
@@ -66,11 +54,7 @@ A fast-paced multiplayer hackathon project built during Hack Club Scrapyard 2025
 
 A minimal, dark-themed focus workspace that plays lofi livestreams and ambient sounds while you study. Built with HTML5, CSS3, and vanilla JavaScript—no build step, no frameworks.
 
-<p>
-  <a href="https://yb-g-personal.github.io/focusfi/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-181717?style=for-the-badge">
-  </a>
-</p>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://yb-g-personal.github.io/focusfi/)
 
 ---
 
@@ -80,11 +64,7 @@ Real-time song requests for DJs and their crowd.
 
 CrowdPlay lets audiences request songs, upvote favorites, and watch the queue update live—without downloading an app.
 
-<p>
-  <a href="https://crowdplay-app.github.io/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-181717?style=for-the-badge">
-  </a>
-</p>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://crowdplay-app.github.io/)
 
 ---
 
@@ -94,21 +74,15 @@ CrowdPlay lets audiences request songs, upvote favorites, and watch the queue up
 
 Browser Console Scripts to clear your social accounts subscriptions and follows.
 
-<p align="center">
-  <sub><i>Attualmente in espansione con il supporto per altre piattaforme.</i></sub>
-</p>
+*Attualmente in espansione con il supporto per altre piattaforme.*
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yb-g&theme=github_dark&hide_border=true&show_icons=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yb-g&theme=github_dark&hide_border=true&show_icons=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yb-g&theme=github-dark&hide_border=true"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=yb-g&theme=github-dark&hide_border=true)
 
 ---
 
@@ -136,19 +110,10 @@ Browser Console Scripts to clear your social accounts subscriptions and follows.
 
 ---
 
-<p align="center">
-  <sub>Built with ☕, Linux, and curiosity.</sub>
-</p>
+*Built with ☕, Linux, and curiosity.*
 
-<p align="center">
-  <sub>Thanks for stopping by.</sub>
-</p>
+*Thanks for stopping by.*
 
 ---
 
-<p align="center">
-  <sub>
-    README crafted with ❤️ using ChatGPT (because I was too lazy to write it myself 😅)
-  </sub>
-</p>
-````
+<sub>README crafted with ❤️ using ChatGPT (because I was too lazy to write it myself 😅)</sub>
