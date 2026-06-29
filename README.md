@@ -1,7 +1,7 @@
 <!-- Replace this with your banner once it's ready -->
 <!-- ![Banner](assets/banner.png) -->
 
-# Vaibhav Gannavarapu
+# Vaibhav Gannavarapu here.
 
 > Computer Science Student • Linux Enthusiast • Open Source
 
@@ -18,7 +18,7 @@
 📷 Media Team @ Youthika Connect
 🎵 Music Producer
 🏎️ Motorsport & Cars
-🇯🇵 Aspiring Software Engineer in Japan
+🇯🇵 Currently dreaming of travelling to Japan one day
 ```
 
 ---
@@ -114,4 +114,3 @@ Browser Console Scripts to clear your social accounts subscriptions and follows.
 ---
 
 <sub>README crafted with ❤️ using ChatGPT (because I was too lazy to write it myself 😅)</sub>
-````
