@@ -109,4 +109,4 @@ Browser Console Scripts to clear your social accounts subscriptions and follows.
 
 ---
 
-<sub>README crafted with ❤️ using ChatGPT (because I was too lazy to write it myself 😅)</sub>
+<sub>README crafted with ❤️ using ChatGPT (because I was too lazy to write it myself)</sub>
