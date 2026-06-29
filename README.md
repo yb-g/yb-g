@@ -1,4 +1,8 @@
-# Hi, I'm Vaibhav Gannavarapu 👋
+````md
+<!-- Replace the line below with your banner once it's ready -->
+<!-- ![Banner](https://raw.githubusercontent.com/yb-g/yb-g/main/assets/banner.png) -->
+
+<h1 align="center">Hi, I'm Vaibhav 👋</h1>
 
 <p align="center">
   <b>Computer Science Student</b> • <b>Linux Enthusiast</b> • <b>Open Source</b>
@@ -31,11 +35,11 @@
 ## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript,lua"/>
+  <img src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript,json,lua" />
 </p>
 
-> **Currently proficient:** HTML • CSS • Python
-> **Currently learning:** JavaScript
+> **Currently proficient:** HTML • CSS • Python  
+> **Currently learning:** JavaScript  
 > **Interested in learning:** TypeScript • JSON • Lua
 
 ---
@@ -43,7 +47,7 @@
 ## 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
 </p>
 
 ---
@@ -62,7 +66,11 @@ A fast-paced multiplayer hackathon project built during Hack Club Scrapyard 2025
 
 A minimal, dark-themed focus workspace that plays lofi livestreams and ambient sounds while you study. Built with HTML5, CSS3, and vanilla JavaScript—no build step, no frameworks.
 
-[![Open Website](https://img.shields.io/badge/Open_Website-black?style=flat-square\&logo=githubpages)](https://yb-g-personal.github.io/focusfi/)
+<p>
+  <a href="https://yb-g-personal.github.io/focusfi/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-181717?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
@@ -72,7 +80,11 @@ Real-time song requests for DJs and their crowd.
 
 CrowdPlay lets audiences request songs, upvote favorites, and watch the queue update live—without downloading an app.
 
-[![Open Website](https://img.shields.io/badge/Open_Website-black?style=flat-square\&logo=githubpages)](https://crowdplay-app.github.io/)
+<p>
+  <a href="https://crowdplay-app.github.io/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-181717?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
@@ -100,30 +112,27 @@ Browser Console Scripts to clear your social accounts subscriptions and follows.
 
 ---
 
-## ❤️ Interests
+## 🎯 Interests
 
-* 🐧 Linux
-* 🌍 Open Source
-* 💻 Web Development
-* ⚽ Football
-* 📷 Photography
-* 🎵 Music Production
-* 🏎️ Motorsport
-* 🤖 Robotics
-* 🎨 UI / UX
+- 🐧 Linux
+- 🌍 Open Source
+- 💻 Web Development
+- ⚽ Football
+- 📷 Photography
+- 🎵 Music Production
+- 🏎️ Motorsport
+- 🤖 Robotics
+- 🎨 UI / UX
 
 ---
 
 ## 🔗 Links
 
-🏠 **Personal Organization**
-https://github.com/yb-g-personal
+[![Organization](https://img.shields.io/badge/Organization-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yb-g-personal)
 
-🎶 **CrowdPlay Project**
-https://github.com/crowdplay-app
+[![CrowdPlay](https://img.shields.io/badge/CrowdPlay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crowdplay-app)
 
-🌐 **Portfolio** *(Coming Soon)*
-https://yb-g.github.io
+[![Portfolio](https://img.shields.io/badge/Portfolio_(Coming_Soon)-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://yb-g.github.io)
 
 ---
 
@@ -142,3 +151,4 @@ https://yb-g.github.io
     README crafted with ❤️ using ChatGPT (because I was too lazy to write it myself 😅)
   </sub>
 </p>
+````
