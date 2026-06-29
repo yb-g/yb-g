@@ -11,14 +11,12 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Student
-🐧 Linux Daily Driver
-💻 Open Source Enthusiast
-📷 Media Team @ Youthika Connect
-🎵 Music Producer
-🏎️ Motorsport & Cars
-🇯🇵 Currently dreaming of travelling to Japan one day
-
+- 🎓 Computer Science Student
+- 🐧 Linux Daily Driver (Bazzite)
+- 💻 Open Source Enthusiast
+- 🎵 Music Producer
+- 🏎️ Motorsport & Cars
+- 🇯🇵 Currently dreaming of living in Japan
 ---
 
 ## 💻 Languages
