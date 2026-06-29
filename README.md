@@ -31,7 +31,7 @@
 ## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript,json,lua"/>
+  <img src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript,lua"/>
 </p>
 
 > **Currently proficient:** HTML • CSS • Python
