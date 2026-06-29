@@ -11,7 +11,6 @@
 
 ## 🚀 About Me
 
-```text
 🎓 Computer Science Student
 🐧 Linux Daily Driver
 💻 Open Source Enthusiast
@@ -19,13 +18,12 @@
 🎵 Music Producer
 🏎️ Motorsport & Cars
 🇯🇵 Currently dreaming of travelling to Japan one day
-```
 
 ---
 
 ## 💻 Languages
 
-![Languages](https://skillicons.dev/icons?i=html,css,python,javascript,typescript,json,lua)
+![Languages](https://skillicons.dev/icons?i=html,css,python,javascript,typescript,lua)
 
 **Currently proficient:** HTML • CSS • Python
 
