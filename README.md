@@ -102,8 +102,12 @@ Currently expanding support for more platforms.
 ## GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yb-g&theme=github_dark&hide_border=true&show_icons=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yb-g&layout=compact&theme=github_dark&hide_border=true"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=yb-g&theme=github_dark&hide_border=true&show_icons=true">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=yb-g&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yb-g&layout=compact&theme=github_dark&hide_border=true">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yb-g&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
