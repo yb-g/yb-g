@@ -3,11 +3,9 @@
 
 # Vaibhav Gannavarapu
 
-**Computer Science Student • Linux Enthusiast • Open Source**
+> Computer Science Student • Linux Enthusiast • Open Source
 
 *Building useful software, one commit at a time.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=yb-g&style=flat-square&color=grey&label=Profile+Views)
 
 ---
 
@@ -57,7 +55,7 @@ A fast-paced multiplayer hackathon project built during Hack Club Scrapyard 2025
 
 A minimal, dark-themed focus workspace that plays lofi livestreams and ambient sounds while you study. Built with HTML5, CSS3, and vanilla JavaScript—no build step, no frameworks.
 
-[![Website](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://yb-g-personal.github.io/focusfi/)
+🌐 **Website:** [yb-g-personal.github.io/focusfi](https://yb-g-personal.github.io/focusfi/)
 
 ---
 
@@ -67,11 +65,11 @@ Real-time song requests for DJs and their crowd.
 
 CrowdPlay lets audiences request songs, upvote favorites, and watch the queue update live—without downloading an app.
 
-[![Website](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://crowdplay-app.github.io/)
+🌐 **Website:** [crowdplay-app.github.io](https://crowdplay-app.github.io/)
 
 ---
 
-## 🛠️ Currently Working On
+## 🚧 In Development
 
 ### 🛠️ [MassUnConsole](https://github.com/yb-g-personal/mass-unconsole)
 
@@ -103,9 +101,9 @@ Browser Console Scripts to clear your social accounts subscriptions and follows.
 
 ## 🔗 Links
 
-[![Organization](https://img.shields.io/badge/Organization-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yb-g-personal)
+🏠 **Organization:** [yb-g-personal](https://github.com/yb-g-personal)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio_(Coming_Soon)-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://yb-g.github.io)
+🌐 **Portfolio:** [yb-g.github.io](https://yb-g.github.io)
 
 ---
 
@@ -116,3 +114,4 @@ Browser Console Scripts to clear your social accounts subscriptions and follows.
 ---
 
 <sub>README crafted with ❤️ using ChatGPT (because I was too lazy to write it myself 😅)</sub>
+````
